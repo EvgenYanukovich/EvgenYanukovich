@@ -124,7 +124,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=EvgenYanukovich&color=blueviolet&style=flat-square&label=Просмотры+профиля)
+  ![Profile Views](https://komarev.com/ghpvc/?username=EvgenYanukovich&label=Views&color=blueviolet&style=for-the-badge)
   
   ### 💼 Открыт для предложений о работе!
   
