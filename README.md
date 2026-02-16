@@ -70,22 +70,6 @@
 - 📝 Шаблонизаторы: Smarty, Blade
 - 📧 Верстка email-писем
 
-## 📂 Дополнительная информация
-
-- 📋 **[Детальные навыки](./SKILLS.md)** — подробное описание технологий
-- 💼 **[Портфолио проектов](./PROJECTS.md)** — мои работы и достижения
-- 📚 **[План обучения](./LEARNING.md)** — что изучаю и планирую освоить
-- 📬 **[Контакты](./CONTACT.md)** — как связаться и обсудить сотрудничество
-
-## 📊 GitHub Статистика
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvgenYanukovich&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenYanukovich&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
-  
-</div>
 
 ## 🐍 Contribution Activity
 
